@@ -5,6 +5,9 @@
   "author": "Bowen Zhong <bz4e14@soton.ac.uk>",
   "license": "MIT",
   "dependencies": {
-    "bunyan": "^1.8.12"
+    "bunyan": "^1.8.12",
+    "lodash": "^4.17.4",
+    "moment": "^2.20.1",
+    "prettyjson": "^1.2.1"
   }
 }
